@@ -1,3 +1,7 @@
+#Tutorial: Learn Python With This ONE Project! Tech with Tim
+#https://youtu.be/th4OBktqK1I
+
+
 import random
 
 MAX_LINES = 3
